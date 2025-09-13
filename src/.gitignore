@@ -1,0 +1,15 @@
+# node_modules folder ignore karne ke liye
+node_modules/
+
+# environment file ignore karne ke liye
+.env
+
+# build/output folder ignore karne ke liye
+dist/
+build/
+
+# logs ignore karne ke liye
+*.log
+
+# config file ignore karne ke liye
+config.jsx
