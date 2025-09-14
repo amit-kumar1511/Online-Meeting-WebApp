@@ -1,4 +1,5 @@
-Live Project - https://zoom-theta-flame.vercel.app/
+Live Project vercel - https://zoom-theta-flame.vercel.app/
+Live Prject netlify - https://zomeet.netlify.app/
 
 # ZoomClone — Real-Time Video Calls & Chat (React + Tailwind + ZegoCloud)
 
