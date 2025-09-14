@@ -2,7 +2,8 @@ import React, { useRef, useState, useEffect } from "react";
 import "./Room.css";
 import { useParams, useLocation, useNavigate } from "react-router-dom";
 import { ZegoUIKitPrebuilt } from "@zegocloud/zego-uikit-prebuilt";
-import { APP_ID, SECRET } from "../../Config";
+const APP_ID = 1682579587;
+const SECRET="887dc05c0bb59377fc4f24d1770c2009"
 
 function Room() {
   const { roomId } = useParams();
